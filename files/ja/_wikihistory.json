@@ -20315,10 +20315,6 @@
     "modified": "2019-04-16T23:59:54.980Z",
     "contributors": ["Uemmra3", "Wind1808"]
   },
-  "Web/Guide/Parsing_and_serializing_XML": {
-    "modified": "2020-09-14T07:46:26.734Z",
-    "contributors": ["Marsf", "mfuji09", "silverskyvicto", "kmaglione", "Shoot"]
-  },
   "Web/Guide/User_input_methods": {
     "modified": "2020-07-22T12:39:35.178Z",
     "contributors": ["mfuji09", "silverskyvicto"]
@@ -29604,6 +29600,10 @@
   "Web/XML": {
     "modified": "2019-03-23T23:50:12.624Z",
     "contributors": ["ExE-Boss"]
+  },
+  "Web/XML/Parsing_and_serializing_XML": {
+    "modified": "2020-09-14T07:46:26.734Z",
+    "contributors": ["Marsf", "mfuji09", "silverskyvicto", "kmaglione", "Shoot"]
   },
   "Web/XML/XML_introduction": {
     "modified": "2019-05-01T21:52:56.542Z",
